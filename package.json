@@ -49,7 +49,7 @@
     "js-cookie": "2.2.0",
     "jsencrypt": "^3.0.0-rc.1",
     "jszip": "3.1.5",
-    "mavon-editor": "^2.9.0",
+    "mavon-editor": "v2.9.1",
     "normalize.css": "7.0.0",
     "nprogress": "0.2.0",
     "path-to-regexp": "2.4.0",
@@ -66,7 +66,7 @@
     "vue-splitpane": "1.0.4",
     "vuedraggable": "2.20.0",
     "vuex": "3.1.0",
-    "wangeditor": "^3.1.1",
+    "wangeditor": "v4.7.4",
     "xlsx": "^0.14.1"
   },
   "devDependencies": {
